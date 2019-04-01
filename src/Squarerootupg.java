@@ -31,15 +31,15 @@ public class Squarerootupg {
             x2 = (-b-Math.sqrt(D))/(2*a);
 //Output conditions
             if (D > 0){
-                System.out.println("Equation has 2 resolutions:");
+                System.out.println("Equation has 2 solutions:");
                 System.out.println("x1 = " + x1);
                 System.out.println("x2 = " + x2);
             }
             else if (D == 0) {
-                System.out.println("Equation has 1 resolution:");
+                System.out.println("Equation has 1 solution:");
                 System.out.println("x1,x2 = " + x1);
             }
-            else{System.out.println("Equation has no resolution");
+            else{System.out.println("Equation has no solution");
             }
 
 
