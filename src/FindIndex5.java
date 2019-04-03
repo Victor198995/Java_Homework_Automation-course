@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Numbersprint6 {
+public class FindIndex5 {
 
     public static void main(String[] args) {
 
