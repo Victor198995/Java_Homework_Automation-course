@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class ArithMean {
+public class ArithMean6 {
 
     public static void main(String[] args) {
 
@@ -50,9 +50,6 @@ public class ArithMean {
 
 
 
-
-
-
         //Mode
         int maxAppearsNumber = 0;
         int maxAppearances = 0 ;
@@ -69,12 +66,6 @@ public class ArithMean {
                 }
 
             }
-
-
-
-
-
-
 
 
         //Output

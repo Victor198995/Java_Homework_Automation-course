@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class BubbleSort77 {
+public class BubbleSort7 {
 
     public static void main(String[] args) {
 
